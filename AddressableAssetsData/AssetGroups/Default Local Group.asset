@@ -1,4 +1,4 @@
-﻿%YAML 1.1
+%YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!114 &11400000
 MonoBehaviour:
@@ -15,6 +15,11 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: 88ea5711f766d0a4da701b49df996300
   m_SerializeEntries:
+  - m_GUID: 01f28c570bb067d469b2983b34edcddc
+    m_Address: Data/BuildingData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 190489cf38f0703468961068423e5268
     m_Address: UI/CatIcon/TestIcon
     m_ReadOnly: 0
@@ -40,18 +45,23 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70d8054fbb0977a4a81628cbb6f5e15c
+    m_Address: UI/CatIcon/UnknownCatIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7b0a79c6484a1324f868d2ba8b423051
     m_Address: Prefab/UILayer
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 8c9031e3d947b5d468436e324a18ee10
-    m_Address: UI/MainMenuUI
+  - m_GUID: 88dcac1571e9a03449104604151a13c2
+    m_Address: UI/CatIcon/TestIcon3
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 88dcac1571e9a03449104604151a13c2
-    m_Address: UI/CatIcon/TestIcon3
+  - m_GUID: 8c9031e3d947b5d468436e324a18ee10
+    m_Address: UI/MainMenuUI
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -62,11 +72,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a856df38d172b5341b838c1720ec4754
     m_Address: Data/CatInfo
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ab2f3207027ecc34aa0dfdff570b64c5
-    m_Address: Data/BuildingData
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -90,16 +95,9 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 70d8054fbb0977a4a81628cbb6f5e15c
-    m_Address: UI/CatIcon/UnknownCatIcon
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 28023ae8cc2b0f342b1550be13148df2, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: 5a0c7d41a9d672741a33551067a470bd, type: 2}
     - {fileID: 11400000, guid: a2afbb97a26e010458f5b70e347acd0c, type: 2}
-
-
