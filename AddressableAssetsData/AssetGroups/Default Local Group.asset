@@ -15,6 +15,11 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: 88ea5711f766d0a4da701b49df996300
   m_SerializeEntries:
+  - m_GUID: 01f28c570bb067d469b2983b34edcddc
+    m_Address: Data/BuildingData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 55a69b64df7d39e45856c50514bb6163
     m_Address: UI/OverlayUI
     m_ReadOnly: 0
@@ -42,11 +47,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b533b96d38c2cf640a5938d703c8daa6
     m_Address: Prefab/ObjectPoolRoot
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c4ae1d99e3353284a8943abb9c240ac8
-    m_Address: Data/BuildingData
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
