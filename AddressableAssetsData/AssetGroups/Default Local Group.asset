@@ -15,8 +15,58 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: 88ea5711f766d0a4da701b49df996300
   m_SerializeEntries:
+  - m_GUID: 007360ae713f64deba065cd901db5575
+    m_Address: Cat/Material/Eye_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 01f28c570bb067d469b2983b34edcddc
     m_Address: Data/BuildingData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 057264fee7c484eefb2c79cdf96fb1ca
+    m_Address: Cat/Material/Body_13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0959b29c77bee4d25afe01a80f385c02
+    m_Address: Cat/Material/Eye_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ba5a67c7aed3432b86756d5c8b21cfc
+    m_Address: Cat/Material/Body_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bb647f98dc9e41abaf5be4817b17dc0
+    m_Address: Cat/Material/Body_15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c61ec0d0633341c683ce7ab2ed9368a
+    m_Address: Cat/Material/Body_17
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 127b0b672d7e842f5added50060b5be5
+    m_Address: Cat/Material/Body_08
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12ef3acdcc7124a099d7b5d0c15ff519
+    m_Address: Cat/Material/Body_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15efc90292b4143c38165b63ccd76348
+    m_Address: Cat/Material/Mouth_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1837da29c62f64bfea41bfd6c5488154
+    m_Address: Cat/Material/Body_16
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -25,13 +75,68 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20c7024b26f2a4becac14a22e808d6a7
+    m_Address: Cat/Material/Eye_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21f90b3059ea44498a98dc71767a3d00
+    m_Address: Cat/Material/Mouth_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 285309fd76ff54a95bbb442f6464656c
+    m_Address: Cat/Material/Eye_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fa8bb9cdbe594b519f1f396b859643b
+    m_Address: Cat/Material/Body_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38154d840eb0c4d85b377680c15fbc78
+    m_Address: Cat/Material/Eye_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a6e1a640056541b1b3f25fb8b9a60b4
+    m_Address: Cat/Material/Body_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ac3c40880e964f55943400e8ffa0bb5
+    m_Address: Cat/Material/Mouth_09
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 41a3b06fa6fb0ef418c74e9cd891d530
     m_Address: Prefab/Cat_Prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 473248c47b52a42c5b267efc245d7060
+    m_Address: Cat/Material/Body_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51038bc07657b48cbaac540ea447b4e5
+    m_Address: Cat/Material/Body_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5107353f3bb25460fa01ba0f32dbd468
+    m_Address: Cat/Material/Body_19
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 55a69b64df7d39e45856c50514bb6163
     m_Address: UI/OverlayUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5683e2a02fb3845c69557e7b807ce988
+    m_Address: Cat/Material/Eye_10
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -45,13 +150,33 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65ab0b0e780a4403cb6cfb6dc7aed217
+    m_Address: Cat/Material/Body_18
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 70d8054fbb0977a4a81628cbb6f5e15c
     m_Address: UI/CatIcon/UnknownCatIcon
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a5e204950244427a9f3a1e0bb920504
+    m_Address: Cat/Material/Mouth_08
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7b0a79c6484a1324f868d2ba8b423051
     m_Address: Prefab/UILayer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f95edf2ad1d04e5c9f85e0abad8065a
+    m_Address: Cat/Material/Mouth_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8066b0d2246bf4d8ba0c41d25f8233d3
+    m_Address: Cat/Material/Body_20
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -65,8 +190,28 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cd9a4d13dcf34b718cf4c7b45820f30
+    m_Address: Cat/Material/Body_08
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 975e2eaa704af403d88f49b11b4eaaaf
+    m_Address: Cat/Material/Mouth_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9b3797d1fe27e3a42bd3f3493912b3ae
     m_Address: UI/MainUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e68eaebd5e6f4a178fcc9284bf21d2e
+    m_Address: Cat/Material/Mouth_07
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ee334101375a45c3b78d3307a5c4922
+    m_Address: Cat/Material/Mouth_02
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -75,8 +220,28 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa506e16705274203a5e7b4eda61ca37
+    m_Address: Cat/Material/Eye_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b05d16a6966524b26a9dd332d506edae
+    m_Address: Cat/Material/Mouth_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b533b96d38c2cf640a5938d703c8daa6
     m_Address: Prefab/ObjectPoolRoot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b77ed56b6f5ca41b1a965b3bfa146567
+    m_Address: Cat/Material/Mouth_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcfbe0a316724405598d5e42fae26fe5
+    m_Address: Cat/Material/Body_11
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -85,8 +250,38 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c560643fc09ca4591b98f59c043495da
+    m_Address: Cat/Material/Eye_07
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7a1048f14b5f46b4a80fde1f8ed850d
+    m_Address: Cat/Material/Eye_09
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: daf8f76318a114b97ac7c2addd985f21
+    m_Address: Cat/Material/Body_14
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e0e95a4bc602b294ea68078dcea6b13a
     m_Address: UI/CatEncyclopediaPopUp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1c30102f3f584bfe86c2246cdcba5bd
+    m_Address: Cat/Material/Body_07
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6745238bc4964ba7964176be09d0fc6
+    m_Address: Cat/Material/Body_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7526a1ad440d4a9d82dbee8fb53e3a6
+    m_Address: Cat/Material/Body_10
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -97,6 +292,16 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fe451d94c3cc67c4b964c228b4318890
     m_Address: UI/GachaPopupUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: febb472dead6e44f985f3939a0aa2ed1
+    m_Address: Cat/Material/Eye_08
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: febbec134e1a6480499291341aef8804
+    m_Address: Cat/Material/Eye_02
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
