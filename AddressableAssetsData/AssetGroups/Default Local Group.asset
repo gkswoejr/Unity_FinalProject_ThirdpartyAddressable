@@ -115,6 +115,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3fb5217eeffa63548ab94436772bc9d6
+    m_Address: UI/OnClickCatInfoPopUp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 41a3b06fa6fb0ef418c74e9cd891d530
     m_Address: Prefab/Cat_Prefab
     m_ReadOnly: 0
