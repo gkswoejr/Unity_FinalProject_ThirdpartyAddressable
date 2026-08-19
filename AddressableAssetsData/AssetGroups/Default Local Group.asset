@@ -115,6 +115,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f2d7a65431c9ff459a061c88a148786
+    m_Address: Data/LandUpGradeData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3fb5217eeffa63548ab94436772bc9d6
     m_Address: UI/OnClickCatInfoPopUp
     m_ReadOnly: 0
