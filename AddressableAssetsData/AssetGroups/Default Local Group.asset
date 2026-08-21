@@ -55,6 +55,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f3736cf02ff4e34b8285b245ca36a6c
+    m_Address: UI/CatIcon/StockCatIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 127b0b672d7e842f5added50060b5be5
     m_Address: Cat/Material/Body_08
     m_ReadOnly: 0
@@ -145,6 +150,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3719774b2fb323649afb4565c6cc5f95
+    m_Address: UI/CatIcon/BronzeCatIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 38154d840eb0c4d85b377680c15fbc78
     m_Address: Cat/Material/Eye_11
     m_ReadOnly: 0
@@ -160,11 +170,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3f2d7a65431c9ff459a061c88a148786
-    m_Address: Data/LandUpGradeData
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3fb5217eeffa63548ab94436772bc9d6
     m_Address: UI/OnClickCatInfoPopUp
     m_ReadOnly: 0
@@ -172,6 +177,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 41a3b06fa6fb0ef418c74e9cd891d530
     m_Address: Prefab/Cat_Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 448e5482795c3b340b80ce4356a75334
+    m_Address: UI/CatIcon/UnknownCatIcon
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -210,6 +220,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5cd10eadf8eabd147972669742374804
+    m_Address: UI/CatIcon/GoldCatIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5d2b78e7774c77f4cab2b5274cf8f526
     m_Address: Data/TestData
     m_ReadOnly: 0
@@ -232,11 +247,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6fb06ce08ad6f9b42ae1f5117d1f7944
     m_Address: Building_Cinema_Prefab_01
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 70d8054fbb0977a4a81628cbb6f5e15c
-    m_Address: UI/CatIcon/UnknownCatIcon
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -270,11 +280,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 823ec5d866707e34098eb23f7d3fced9
-    m_Address: UI/LandUpGradeUI
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 87fa912de9bd9a143a8a26511cd93987
     m_Address: Building_Gym_Prefab_01
     m_ReadOnly: 0
@@ -292,6 +297,16 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8cd9a4d13dcf34b718cf4c7b45820f30
     m_Address: Cat/Material/Body_09
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d36fa7b1acab5a49a0c8f0855318222
+    m_Address: UI/CatIcon/PoliceCatIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e966bc63bb909e4fbf243b59c05f3fb
+    m_Address: UI/CatIcon/SilverCatIcon
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -327,6 +342,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a57f2a3f27562464e869aefe6954871b
     m_Address: Building_Convenience_Store_Prefab_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7014decf1fdfcd4cbe7e3bf1458fc14
+    m_Address: UI/CatIcon/HeigenbergCatIcon
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -405,13 +425,13 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e6745238bc4964ba7964176be09d0fc6
-    m_Address: Cat/Material/Body_05
+  - m_GUID: e2df732bd297bc04da2e6da38e2fdf1f
+    m_Address: UI/CatIcon/HealthCatIcon
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: eed799d88d7a305499c7bc48d28947b6
-    m_Address: Building_Mall_Prefab_01
+  - m_GUID: e6745238bc4964ba7964176be09d0fc6
+    m_Address: Cat/Material/Body_05
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
