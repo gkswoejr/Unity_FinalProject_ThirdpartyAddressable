@@ -25,6 +25,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04339706bd57d0e4ca629c1c3ef52dfb
+    m_Address: Building_Repair_Shop_Prefab_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 057264fee7c484eefb2c79cdf96fb1ca
     m_Address: Cat/Material/Body_13
     m_ReadOnly: 0
@@ -60,8 +65,18 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15d1997dbe6ea8b498a94c418f219816
+    m_Address: Building_TownHall_Prefab_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 15efc90292b4143c38165b63ccd76348
     m_Address: Cat/Material/Mouth_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 162b00581c2e70e4ab6f7b79838cb936
+    m_Address: Building_Police_Office_Prefab_01
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -72,6 +87,16 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 190489cf38f0703468961068423e5268
     m_Address: UI/CatIcon/TestIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a61897f2f3c71f4090224a3a6b152e6
+    m_Address: Building_TownHall_Prefab_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1aa7ecb687a5f294fb638dacf41bab67
+    m_Address: Building_Spawner_Prefab_01
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -92,6 +117,26 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 285309fd76ff54a95bbb442f6464656c
     m_Address: Cat/Material/Eye_06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29789fbe7685f4c4992b2a378483d4e0
+    m_Address: Building_TownHall_Prefab_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d411e3705baf384f95cd9fdb8f7c680
+    m_Address: Building_Convenience_Store_Prefab_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d94dc6eeb30a8b4da06c6ac961039d0
+    m_Address: Building_Apartment_Prefab_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ef0797da60407348b9b34c8739ce696
+    m_Address: Building_House_Prefab_03
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -130,6 +175,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4637067e053c0ea4ba6097aea2e08e43
+    m_Address: Building_CoffeeShop_Prefab_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 473248c47b52a42c5b267efc245d7060
     m_Address: Cat/Material/Body_04
     m_ReadOnly: 0
@@ -142,6 +192,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5107353f3bb25460fa01ba0f32dbd468
     m_Address: Cat/Material/Body_19
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5370f88a07aca8a4da7f42470d54c2c7
+    m_Address: Building_House_Prefab_01
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -170,8 +225,28 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c0090ac963b4da4281d5504336c63da
+    m_Address: Building_Drug_Store_Prefab_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fb06ce08ad6f9b42ae1f5117d1f7944
+    m_Address: Building_Cinema_Prefab_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 70d8054fbb0977a4a81628cbb6f5e15c
     m_Address: UI/CatIcon/UnknownCatIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7170f1a798cad8241b24ac62c357fb16
+    m_Address: Building_Apartment_Prefab_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74978b6b36516b04b92f6ec6b3b0898d
+    m_Address: Building_Apartment_Prefab_01
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -197,6 +272,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 823ec5d866707e34098eb23f7d3fced9
     m_Address: UI/LandUpGradeUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87fa912de9bd9a143a8a26511cd93987
+    m_Address: Building_Gym_Prefab_01
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -230,6 +310,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c7ae3da5a21607439c5b7b1b677f734
+    m_Address: Building_House_Prefab_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9e68eaebd5e6f4a178fcc9284bf21d2e
     m_Address: Cat/Material/Mouth_07
     m_ReadOnly: 0
@@ -237,6 +322,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9ee334101375a45c3b78d3307a5c4922
     m_Address: Cat/Material/Mouth_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a57f2a3f27562464e869aefe6954871b
+    m_Address: Building_Convenience_Store_Prefab_03
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -270,6 +360,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2bc3c07e48b6234b8f21751ead01420
+    m_Address: Building_House_Prefab_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c34fc611067196d49b9d0beb47312aea
     m_Address: Data/CatInfoData
     m_ReadOnly: 0
@@ -282,6 +377,16 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c7a1048f14b5f46b4a80fde1f8ed850d
     m_Address: Cat/Material/Eye_09
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9052d0a1977d744fb0bd304bded4446
+    m_Address: Building_Convenience_Store_Prefab_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da3aa27e16a60194ea66f90d187a3660
+    m_Address: Building_Baber_Shop_Prefab_01
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -302,6 +407,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e6745238bc4964ba7964176be09d0fc6
     m_Address: Cat/Material/Body_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eed799d88d7a305499c7bc48d28947b6
+    m_Address: Building_Mall_Prefab_01
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
