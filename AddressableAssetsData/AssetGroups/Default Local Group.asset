@@ -340,6 +340,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 823ec5d866707e34098eb23f7d3fced9
+    m_Address: UI/LandUpGradeUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 826b635a1c33a3f40bfa957bb1a7eb2f
     m_Address: Cat_Material_Body_Bronze
     m_ReadOnly: 0
@@ -537,6 +542,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e6745238bc4964ba7964176be09d0fc6
     m_Address: Cat/Material/Body_05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eed799d88d7a305499c7bc48d28947b6
+    m_Address: Building_Mall_Prefab_01
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
