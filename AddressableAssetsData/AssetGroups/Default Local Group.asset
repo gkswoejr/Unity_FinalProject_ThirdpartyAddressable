@@ -310,6 +310,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7654a19aae9089044a65a8bea12e8382
+    m_Address: UI/CatIcon/CommonCatIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7a5e204950244427a9f3a1e0bb920504
     m_Address: Cat/Material/Mouth_08
     m_ReadOnly: 0
