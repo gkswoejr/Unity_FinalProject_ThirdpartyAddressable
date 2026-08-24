@@ -115,11 +115,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 190489cf38f0703468961068423e5268
-    m_Address: UI/CatIcon/TestIcon
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1a61897f2f3c71f4090224a3a6b152e6
     m_Address: Building_TownHall_Prefab_03
     m_ReadOnly: 0
@@ -355,11 +350,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 88dcac1571e9a03449104604151a13c2
-    m_Address: UI/CatIcon/TestIcon3
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 89504f72c90f7524cafa3b0945b4f714
     m_Address: Cat_Material_Body_Health
     m_ReadOnly: 0
@@ -562,11 +552,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f7526a1ad440d4a9d82dbee8fb53e3a6
     m_Address: Cat/Material/Body_10
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: faff702dc82f9ca45bfa6690cc3a152c
-    m_Address: UI/CatIcon/TestIcon2
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
