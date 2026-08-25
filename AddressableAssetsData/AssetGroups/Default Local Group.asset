@@ -70,6 +70,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d7542e57bac09e459ca236eae5cdfb3
+    m_Address: Data/AudioData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0d80f3d3128ad9742a1b36429d3f97ab
     m_Address: Cat_Material_Eye_Health
     m_ReadOnly: 0
@@ -187,6 +192,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2fa8bb9cdbe594b519f1f396b859643b
     m_Address: Cat/Material/Body_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 350abc973fae7884f934349ab27bb78e
+    m_Address: Audio/Lobby
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -497,6 +507,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d9052d0a1977d744fb0bd304bded4446
     m_Address: Building_Convenience_Store_Prefab_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da0e3344acde64a4288a156f2de740b8
+    m_Address: Prefab/AudioView
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
