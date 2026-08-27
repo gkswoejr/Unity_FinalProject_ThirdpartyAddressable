@@ -495,6 +495,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd0b48a0a0efd91469b3614ac093d0c9
+    m_Address: UI/GameEndPopUp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c2bc3c07e48b6234b8f21751ead01420
     m_Address: Building_House_Prefab_02
     m_ReadOnly: 0
