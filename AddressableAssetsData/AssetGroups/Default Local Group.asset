@@ -515,6 +515,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce18c0b45e9b2b745a3da33a46c9ebd4
+    m_Address: UI/SaveLoadCompletePopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d9052d0a1977d744fb0bd304bded4446
     m_Address: Building_Convenience_Store_Prefab_02
     m_ReadOnly: 0
