@@ -150,6 +150,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 253a3d845969569429e4a4c7481a6613
+    m_Address: Building_EndingStatu_Prefab_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2634a2ea12dfac0418638178b50da704
     m_Address: Cat_Material_Body_Stock
     m_ReadOnly: 0
@@ -322,6 +327,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7654a19aae9089044a65a8bea12e8382
     m_Address: UI/CatIcon/CommonCatIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78946f4d3db504348836713c56783b72
+    m_Address: UI/BuildConfirmPopUpUI
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
