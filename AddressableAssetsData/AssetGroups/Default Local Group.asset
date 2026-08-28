@@ -210,6 +210,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37946d1169697944888881f37aba13c8
+    m_Address: UI/RewardSlotUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 38154d840eb0c4d85b377680c15fbc78
     m_Address: Cat/Material/Eye_11
     m_ReadOnly: 0
@@ -252,6 +257,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 473248c47b52a42c5b267efc245d7060
     m_Address: Cat/Material/Body_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a220102d2e1b7b4aa07555167fe1ed1
+    m_Address: UI/RewardPopupUI
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -477,6 +487,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b05d16a6966524b26a9dd332d506edae
     m_Address: Cat/Material/Mouth_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0f1d39a7147e4e838466f1da9737f92
+    m_Address: Prefab/GoldSprite
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
